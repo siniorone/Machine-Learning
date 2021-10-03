@@ -8,5 +8,6 @@ In this repository, I want to keep records of my own machine learning activities
 I'm still learning, and this repository contains my efforts to learn about this subject. 
 
 ### This repository contains the following files :
-| Name | Description |
-| --- | ------------------------------------ |
+| | Name | Description |
+| --- | --- | ----------------------------- |
+| 1 | [Simple Linear Regresion](https://github.com/siniorone/Machine-Learning/blob/main/Python/01-Simple%20Linear%20Regresion.ipynb) | Build a simple linear regression model based on coronavirus vaccination and mortality rate  |
